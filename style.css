@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://1366x768.ru/nature/363/363-luna-derevya-oboi-priroda-1366x768.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    color: #2f39bd;
+    border: solid 3px black;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgba(0, 0, 0, 0.932);
+    border-radius: 5%;
+    height: 900px;
+}
+.te{
+    margin-top: 20%;
+
+}
+.text1{
+    margin-bottom: 20%;
+    position: absolute;
+}
+.text2{
+    margin-top: 10%;
+    position: absolute;
+}
+h1{
+    color: #373d90;
+    border: dashed 1px wheat;
+    border-radius: 30%;
+    padding-left: 4%;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 20px;
+}
+h3{
+    color: #373d90;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 20%;
+    text-decoration: underline;
+    flex-direction: row;
+    display: flex;
+    font-size: 15px;
+    margin-bottom: 60%;
+}
+.photo{
+   width: 500px;
+   height: 300px;
+   position: absolute;
+   top: 21%;
+   right:31.7%;
+   border-radius: 20%;
+   border: solid white 1px;
+
+}
+a,nav,ul{
+    margin-left: 10%;
+}
+a,nav,ul:hover{
+    color: aliceblue;
+}
